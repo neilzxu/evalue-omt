@@ -1,0 +1,15 @@
+open_bandit_dataset.zip
+*.csv
+*.txt
+*.jpg
+*.pkl
+*.npy
+.mypy_cache/
+*.pyc
+/**/__python__/
+results/
+figures/
+comp_exp/
+real_data/
+*.png
+*.*DS_Store
